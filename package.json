@@ -1,0 +1,23 @@
+{
+  "name": "join-reducers",
+  "version": "0.0.1",
+  "description": "Joins Multiple Redux Reducers",
+  "main": "joinReducers.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taciknowledge/join-reducers.git"
+  },
+  "keywords": [
+    "redux",
+    "utility"
+  ],
+  "author": "Shun MIZUKAMI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taciknowledge/join-reducers/issues"
+  },
+  "homepage": "https://github.com/taciknowledge/join-reducers#readme"
+}
