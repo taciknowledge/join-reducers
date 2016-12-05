@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/taciknowledge/join-reducers/issues"
   },
-  "homepage": "https://github.com/taciknowledge/join-reducers#readme"
+  "homepage": "https://github.com/taciknowledge/join-reducers#readme",
+  "dependencies": {
+    "array-from": "^2.1.1"
+  }
 }

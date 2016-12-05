@@ -4,7 +4,7 @@
 
 ## Usage
 
-```
+```js
 var joinReducer = require('join-reducers');
 
 // assumes two reducers
